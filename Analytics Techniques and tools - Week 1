@@ -1,0 +1,25 @@
+What are the steps in the analytics Implementation Process? explain the objective of each step and cite some examples
+
+Define Business Objectives: The first step is understanding the end goals of the business. This could be anything from improving customer service, increasing sales, managing resources, or identifying market opportunities. For example, a restaurant might want to increase table turnover rates.
+
+Identify Required Data: The objective here is to understand what data is needed to fulfil the stated business goals. This could include customer satisfaction surveys for the restaurant looking to improve service, or sales data for specific time periods to understand peak and slow times.
+
+Data Collection: The aim of this step is to gather the specified data. For instance, this could involve exporting sales data from the restaurant's point of sale (POS) system, or collecting new survey data from customers.
+
+Data Cleaning: The objective here is to ensure the collected data is usable by dealing with issues such as incorrect, incomplete, or irrelevant data. For the restaurant, this could mean removing entries where a server forgot to close out a check, resulting in inaccurate table turnover times.
+
+Data Integration: If data is coming from multiple sources, this step involves merging that data into a unified source that can be easily analyzed. For example, the restaurant might need to integrate reservation data from a third-party application with their POS system data.
+
+Select Analytical Techniques and Tools: This step involves choosing the right statistical or AI methods to analyze the data based on the business goals with the aim of revealing actionable insights. For example, the restaurant might use time-series analysis to understand patterns in table turnover rates.
+
+Data Analysis: The aim here is to apply the chosen methods to the data to extract meaningful information. For instance, the restaurant would carry out the time-series analysis on their data, decoding patterns or trends.
+
+Interpret Results: The objective of this step is to understand what the outcomes of the analysis mean in the context of the business objectives to derive actionable insights. The restaurant, for example, might learn their table turnover rate is lowest on weekends during brunch hours.
+
+Testing: Here the aim is to validate the results, checking the accuracy and reliability of the insights before implementing them. For example, the restaurant could implement a change based on insights on a small scale, such as altering the table layout during a single brunch service, and observing the results.
+
+Deployment: The objective in this stage is to implement the insights derived from the analytics into the business's operations. For example, the restaurant might roll out new table management procedures to all brunch services.
+
+Continuous Monitoring and Improvement: The aim here is to oversee the measures deployed, track their performance and make necessary tweaks for optimization. For example, the restaurant can now continuously monitor changes in table turnover rates and adjust their procedures accordingly.
+
+Reporting: The objective of the final step is to communicate the findings, insights and the process to stakeholders to make informed decisions and strategies. For instance, the restaurant manager might prepare a report showing how the new procedures have increased table turnover rates and, therefore, revenue during brunch service.
