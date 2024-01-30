@@ -1,0 +1,55 @@
+Descriptive Analytics – Methods, Tools and Examples
+
+Descriptive Analytics
+Definition:Descriptive analytics focused on describing or summarizing raw data and making it interpretable. This type of analytics provides insight into what has happened in the past. It involves the analysis of historical data to identify patterns, trends, and insights. Descriptive analytics often uses visualization tools to represent the data in a way that is easy to interpret.
+
+
+Descriptive Analytics Techniques
+Descriptive analytics involves a variety of techniques to summarize, interpret, and visualize historical data. Some commonly used techniques include:
+Descriptive Analytics in Research
+Descriptive analytics plays a crucial role in research, helping investigators understand and describe the data collected in their studies. Here’s how descriptive analytics is typically used in a research setting:
+•	Descriptive Statistics: In research, descriptive analytics often takes the form of descriptive statistics. This includes calculating measures of central tendency (like mean, median, and mode), measures of dispersion (like range, variance, and standard deviation), and measures of frequency (like count, percent, and frequency). These calculations help researchers summarize and understand their data.
+•	Visualizing Data: Descriptive analytics also involves creating visual representations of data to better understand and communicate research findings. This might involve creating bar graphs, line graphs, pie charts, scatter plots, box plots, and other visualizations.
+•	Exploratory Data Analysis: Before conducting any formal statistical tests, researchers often conduct an exploratory data analysis, which is a form of descriptive analytics. This might involve looking at distributions of variables, checking for outliers, and exploring relationships between variables.
+
+•	Establishing Patterns and Relationships: Descriptive analytics helps in identifying patterns, trends, or relationships in the data, which can guide subsequent analysis or future research. For instance, researchers might look at the correlation between variables as a part of descriptive analytics.
+
+Statistical Analysis
+This includes basic statistical methods like mean, median, mode (central tendency), standard deviation, variance (dispersion), correlation, and regression (relationships between variables).
+Data Aggregation
+It is the process of compiling and summarizing data to obtain a general perspective. It can involve methods like sum, count, average, min, max, etc., often applied to a group of data.
+Data Mining
+This involves analyzing large volumes of data to discover patterns, trends, and insights. Techniques used in data mining can include clustering (grouping similar data), classification (assigning data into categories), association rules (finding relationships between variables), and anomaly detection (identifying outliers).
+Data Visualization
+This involves presenting data in a graphical or pictorial format to provide clear and easy understanding of the data patterns, trends, and insights. Common data visualization methods include bar charts, line graphs, pie charts, scatter plots, histograms, and more complex forms like heat maps and interactive dashboards.
+Reporting
+This involves organizing data into informational summaries to monitor how different areas of a business are performing. Reports can be generated manually or automatically and can be presented in tables, graphs, or dashboards.
+Cross-tabulation (or Pivot Tables)
+It involves displaying the relationship between two or more variables in a tabular form. It can provide a deeper understanding of the data by allowing comparisons and revealing patterns and correlations that may not be readily apparent in raw data.
+Descriptive Modeling
+Some techniques use complex algorithms to interpret data. Examples include decision tree analysis, which provides a graphical representation of decision-making situations, and neural networks, which are used to identify correlations and patterns in large data sets.
+Descriptive Analytics Tools
+Some common Descriptive Analytics Tools are as follows:
+Excel: Microsoft Excel is a widely used tool that can be used for simple descriptive analytics. It has powerful statistical and data visualization capabilities. Pivot tables are a particularly useful feature for summarizing and analyzing large data sets.
+
+Tableau: Tableau is a data visualization tool that is used to represent data in a graphical or pictorial format. It can handle large data sets and allows for real-time data analysis.
+Power BI: Power BI, another product from Microsoft, is a business analytics tool that provides interactive visualizations with self-service business intelligence capabilities.
+QlikView: QlikView is a data visualization and discovery tool. It allows users to analyze data and use this data to support decision-making.
+SAS: SAS is a software suite that can mine, alter, manage and retrieve data from a variety of sources and perform statistical analysis on it.
+SPSS: SPSS (Statistical Package for the Social Sciences) is a software package used for statistical analysis. It’s widely used in social sciences research but also in other industries.
+Google Analytics: For web data, Google Analytics is a popular tool. It allows businesses to analyze in-depth detail about the visitors on their website, providing valuable insights that can help shape the success strategy of a business.
+R and Python: Both are programming languages that have robust capabilities for statistical analysis and data visualization. With packages like pandas, matplotlib, seaborn in Python and ggplot2, dplyr in R, these languages are powerful tools for descriptive analytics.
+Looker: Looker is a modern data platform that can take data from any database and let you start exploring and visualizing.
+
+
+
+When to use Descriptive Analytics
+Descriptive analytics forms the base of the data analysis workflow and is typically the first step in understanding your business or organization’s data. Here are some situations when you might use descriptive analytics:
+Understanding Past Behavior: Descriptive analytics is essential for understanding what has happened in the past. If you need to understand past sales trends, customer behavior, or operational performance, descriptive analytics is the tool you’d use.
+Reporting Key Metrics: Descriptive analytics is used to establish and report key performance indicators (KPIs). It can help in tracking and presenting these KPIs in dashboards or regular reports.
+Identifying Patterns and Trends: If you need to identify patterns or trends in your data, descriptive analytics can provide these insights. This might include identifying seasonality in sales data, understanding peak operational times, or spotting trends in customer behavior.
+Informing Business Decisions: The insights provided by descriptive analytics can inform business strategy and decision-making. By understanding what has happened in the past, you can make more informed decisions about what steps to take in the future.
+Benchmarking Performance: Descriptive analytics can be used to compare current performance against historical data. This can be used for benchmarking and setting performance goals.
+
+
+
