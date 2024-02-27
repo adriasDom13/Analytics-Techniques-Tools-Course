@@ -5,3 +5,61 @@ https://researchmethod.net/prescriptive-analytics/
 https://www.nobledesktop.com/classes-near-me/blog/best-prescriptive-analytics-tools
 
 https://www.solvexia.com/blog/what-is-prescriptive-analytics
+
+
+WHAT IS PRESCRIPTIVE ANALYTICS?
+Prescriptive analytics is the process of using data to determine an optimal course of action. By considering all relevant factors, this type of analysis yields recommendations for next steps. Because of this, prescriptive analytics is a valuable tool for data-driven decision-making.
+Machine-learning algorithms are often used in prescriptive analytics to parse through large amounts of data faster—and often more efficiently—than humans can. Using “if” and “else” statements, algorithms comb through data and make recommendations based on a specific combination of requirements. For instance, if at least 50 percent of customers in a dataset selected that they were “very unsatisfied” with your customer service team, the algorithm may recommend additional training.
+It’s important to note: While algorithms can provide data-informed recommendations, they can’t replace human discernment. Prescriptive analytics is a tool to inform decisions and strategies and should be treated as such. Your judgment is valuable and necessary to provide context and guard rails to algorithmic outputs.
+Prescriptive Analytics Methodology
+Prescriptive analytics methodology involves several steps, encompassing data collection, data processing, model creation, and decision-making. Here’s a typical process:
+•	Data Collection: The first step in any data analytics process involves gathering the necessary data. This can include historical data, real-time data, or a mix of both. The data can come from multiple different sources, such as databases, data warehouses, or external data sources.
+•	Data Processing: After the data is collected, it’s processed and cleaned. This includes handling missing or incorrect data, normalizing data, and conducting other pre-processing steps to make the data suitable for analysis.
+•	Feature Selection & Engineering: This step involves identifying the key variables, or features, in the data that will be used for model creation. Sometimes, existing variables might be combined or transformed to create new, more predictive features, in a process known as feature engineering.
+•	Model Creation: The next step is to create a model that can use the selected features to predict outcomes. This could involve various statistical, machine learning, or AI techniques. Often, many different models are created and tested in this step to see which one produces the best results.
+•	Model Testing & Validation: After the model is created, it’s tested against a validation dataset to assess its performance. Depending on the results, it may be necessary to go back to the model creation step to refine the model further.
+•	Optimization & Simulation: Once the model is performing well, it can be used for optimization and simulation. This can involve using the model to simulate different scenarios and find the optimal solution. For instance, a company might use a prescriptive model to find the optimal price for a product that maximizes profit while keeping customer satisfaction high.
+•	Decision Making: Finally, the results of the prescriptive analysis are used to make decisions. The goal of prescriptive analytics is to guide action, so the final step involves actually using the insights gained to make a decision or take an action.
+•	Review & Monitoring: Post-decision, the results should be monitored to ensure they are as expected. This feedback can be used to further refine the model and improve future decision-making.
+
+
+
+How It Works 
+Grounded in statistics, prescriptive analytics utilises simulation algorithms, machine learning, business rules, computational modelling, neural networks and optimization to work. With different data sources, both historical and transactional, it works with big data and in real-time to best predict outcomes of decisions. 
+This means that before you make a risky decision, you can take a look at the possible outcomes and mitigate risk. 
+
+Benefits of Prescriptive Analytics for Businesses
+Knowing what will happen before it happens is like having a superpower. With prescriptive analytics, organisations can take advantage of the following benefits: 
+•	Helps make decisions for the future before decisions have to be made 
+•	Can assist in mitigating risk
+•	Continuously processes new data to give better options 
+•	Improve operations - optimise planning, reduce inefficiencies, etc. 
+•	Optimise production 
+•	Schedule inventory and optimise supply chain 
+
+Predictive Analytics Vs. Prescriptive Analytics
+Since both predictive and prescriptive analytics are used to determine what will happen in the future, they are easily confused. However, they serve different functions, albeit they are closely related. 
+Predictive analytics forecasts what could happen in the future. It uses decision analysis, predictive modelling and transactional profiling to predict opportunities and interpret risks. It can be used to maximise efficiency, as well as pinpoint potential issues and anomalies. 
+Prescriptive analytics, on the other hand, takes predictive analytics to the next level by suggesting a range of options and outcomes. While they work together, prescriptive analytics is powering revolutionary changes in the world. To illustrate, prescriptive analytics is behind autonomous driving as it is used to help the car decide when to slow down, speed up or make a turn. 
+
+
+Prescriptive Analytics Techniques
+Prescriptive analytics uses various techniques to help organizations decide on a course of action based on the results of descriptive and predictive analytics. Here are a few commonly used techniques:
+Optimization
+This is a mathematical approach used to find the best solution among various alternatives under the given constraints. Techniques like linear programming, integer programming, and more advanced multivariate algorithmic methods can be used. These methods help find the optimal solution for complex decision problems with multiple variables and constraints.
+Simulation
+Simulation techniques allow businesses to model a situation and then simulate different actions to see how each would affect the outcome. This can be particularly useful in scenarios where it’s difficult or costly to test different actions in the real world.
+Heuristics
+Heuristic methods are rule-based techniques used to speed up the process of finding a satisfactory solution, where an optimal solution can be difficult to identify. These are often used in complex or large-scale decision problems.
+Machine Learning
+Machine learning algorithms can be used to learn from historical data and make predictions about future data. In prescriptive analytics, these predictions can then be used to inform decisions. Machine learning can incorporate a wide variety of techniques, including regression, classification, clustering, and others.
+Artificial Intelligence (AI)
+More advanced prescriptive analytics solutions may use AI techniques like neural networks, deep learning, or reinforcement learning to model complex relationships and make predictions.
+Decision Tree
+Decision trees are schematic, tree-shaped diagrams used to determine a course of action or show a statistical probability. They present possible options, outcomes, and resource costs in a detailed, easy-to-follow format.
+Monte Carlo Simulation
+This technique uses probability distributions to model risk or uncertainty. It allows the analyst to run multiple ‘what if’ scenarios and understand the likelihood and impact of different outcomes.
+Genetic Algorithms
+These are heuristic search algorithms used for optimization and search. They are based on the process of natural selection, with concepts of mutation, crossover, and selection, and can be used to identify optimal or near-optimal solutions to complex problems.
+
+
